@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: c8dcdced7ca76964996236de9ea7bb14
+timeCreated: 1441893199
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box006
+    100002: Cylinder011
+    100004: gun body
+    100006: Object001
+    100008: 'scope '
+    100010: scope nobes
+    100012: scope stand
+    100014: //RootNode
+    400000: Box006
+    400002: Cylinder011
+    400004: gun body
+    400006: Object001
+    400008: 'scope '
+    400010: scope nobes
+    400012: scope stand
+    400014: //RootNode
+    2300000: Box006
+    2300002: Cylinder011
+    2300004: gun body
+    2300006: Object001
+    2300008: 'scope '
+    2300010: scope nobes
+    2300012: scope stand
+    3300000: Box006
+    3300002: Cylinder011
+    3300004: gun body
+    3300006: Object001
+    3300008: 'scope '
+    3300010: scope nobes
+    3300012: scope stand
+    4300000: Cylinder011
+    4300002: Box006
+    4300004: Object001
+    4300006: 'scope '
+    4300008: scope nobes
+    4300010: scope stand
+    4300012: gun body
+    6400000: Box006
+    6400002: Cylinder011
+    6400004: gun body
+    6400006: Object001
+    6400008: 'scope '
+    6400010: scope nobes
+    6400012: scope stand
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
